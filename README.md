@@ -1,1 +1,1 @@
-# .github
+# Ara Foundation
